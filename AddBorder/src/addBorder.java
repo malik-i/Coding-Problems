@@ -1,3 +1,5 @@
+// Given a rectangular matrix of characters, add a border of asterisks(*) to it.
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
