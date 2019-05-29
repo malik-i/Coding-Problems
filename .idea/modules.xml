@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AddBorder/AddBorder.iml" filepath="$PROJECT_DIR$/AddBorder/AddBorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlternatingSums/AlternatingSums.iml" filepath="$PROJECT_DIR$/AlternatingSums/AlternatingSums.iml" />
       <module fileurl="file://$PROJECT_DIR$/AreSimilar/AreSimilar.iml" filepath="$PROJECT_DIR$/AreSimilar/AreSimilar.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodingProblems.iml" filepath="$PROJECT_DIR$/CodingProblems.iml" />
     </modules>
