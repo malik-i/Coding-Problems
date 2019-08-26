@@ -5,6 +5,7 @@ public class DefangingIP {
     }
 
     public static void defanger(String ip){
-
+        String result = ip.replace(".","[.]");
+        System.out.println(result);
     }
 }
