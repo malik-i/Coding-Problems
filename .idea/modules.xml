@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/AlternatingSums/AlternatingSums.iml" filepath="$PROJECT_DIR$/AlternatingSums/AlternatingSums.iml" />
       <module fileurl="file://$PROJECT_DIR$/AreSimilar/AreSimilar.iml" filepath="$PROJECT_DIR$/AreSimilar/AreSimilar.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodingProblems.iml" filepath="$PROJECT_DIR$/CodingProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefangingIP/DefangingIP.iml" filepath="$PROJECT_DIR$/DefangingIP/DefangingIP.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingleRowKeyboard/SingleRowKeyboard.iml" filepath="$PROJECT_DIR$/SingleRowKeyboard/SingleRowKeyboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrayChange/arrayChange.iml" filepath="$PROJECT_DIR$/arrayChange/arrayChange.iml" />
     </modules>
